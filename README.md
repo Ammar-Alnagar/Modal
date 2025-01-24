@@ -30,7 +30,7 @@ Best Practices: Tips and tricks for optimizing performance and costs on Modal.co
 
 
 ---
-install modal library to get started
+##Install modal library to get started
 
 ```
 pip install modal
@@ -39,13 +39,13 @@ pip install modal
 
 
 
-run the python script wraped in modal architecture in your enviroment 
+##Run the python script wraped in modal architecture in your enviroment 
 ```
 modal run script.py
 ```
 
 
-run the python script on the modal server without worrying about connectivity,  you can close your browser , ide , pc wtv and the code will run till completion or error which will terminate the run
+##Run the python script on the modal server without worrying about connectivity,  you can close your browser , ide , pc wtv and the code will run till completion or error which will terminate the run
 ````
 modal run --detached script.py
 ```
