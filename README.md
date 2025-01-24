@@ -1,4 +1,4 @@
-##Modal.com GPU Tutorial: Leveraging Online GPUs for AI and ML Projects
+## Modal.com GPU Tutorial: Leveraging Online GPUs for AI and ML Projects
 
 Welcome to the Modal.com GPU Tutorial project! This repository is designed to guide users in understanding how to effectively use Modal.com for running AI/ML workloads on online GPUs. The tutorial covers the basics of setting up projects on Modal, running code in the cloud, and leveraging online GPUs for high-performance computation.
 
